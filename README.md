@@ -23,7 +23,7 @@ This repository contains a PyTorch implementation of the Transformer model as de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RushabhMehta/transformer-architecture.git
+   git clone https://github.com/RushabhMehta2005/transformer-architecture.git
    cd transformer-architecture
    ```
 
