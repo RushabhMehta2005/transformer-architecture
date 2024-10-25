@@ -75,6 +75,18 @@ The architecture is composed of the following components:
 
 *Visualization of the masking used in the decoder to prevent attending to future tokens.*
 
+### Model Architecture
+
+![Model Architecture](visualisation/architecture.png)
+
+*Overall architecture of the Transformer model.*
+
+### Multi-Head Attention
+
+![Multi-Head Attention](visualisation/multiheadattention.png)
+
+*Visualization of the Multi-Head Attention mechanism used in the model.*
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
