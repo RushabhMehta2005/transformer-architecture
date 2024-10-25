@@ -23,8 +23,8 @@ This repository contains a PyTorch implementation of the Transformer model as de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RushabhMehta/transformer-model.git
-   cd transformer-model
+   git clone https://github.com/RushabhMehta/transformer-architecture.git
+   cd transformer-architecture
    ```
 
 2. Create a virtual environment and activate it:
